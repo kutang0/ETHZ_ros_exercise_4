@@ -1,0 +1,5 @@
+param_topic_name: /scan
+param_topic_queue_size: 1
+param_linear_p_gain: 1
+param_angular_p_gain: 0.5
+
